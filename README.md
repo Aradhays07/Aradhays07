@@ -1,5 +1,5 @@
 ## Hi, I'm Aradhay ✨
-✨ Computer Science Student at BVCOE </br>
+✨ Computer Science Student </br>
 💻 I love to code and enjoy making UIs come alive. </br>
 ♟️ Off-screen, I’m a 2200 Elo chess player who thinks in patterns and strategies. </br>
 🚀 Always learning, always building — one commit at a time. </br>
